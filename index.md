@@ -5,7 +5,7 @@ title: Chiang Lab
 
 # Chiang Lab
 
-An engaging 1-3 sentence description of your lab.
+Based in Brigham and Women's Hospital and Harvard Medical School.
 
 {% include section.html %}
 
@@ -13,7 +13,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Genetic research for cardiac loss of function
 
 {%
   include button.html
