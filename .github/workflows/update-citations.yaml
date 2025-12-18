@@ -67,6 +67,8 @@ jobs:
         with:
           file_pattern: "**/.cache/**"
           commit_message: "Commit cache"
+        env:
+          GITHUB_TOKEN: ${{ secrets.BYPASS_TOKEN }}
 
       - name: Check if citations changed
         if: github.event.action != 'closed'
@@ -84,6 +86,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update citations"
+        env:
+          GITHUB_TOKEN: ${{ secrets.BYPASS_TOKEN }}
 
       - name: Open pull request with updated citations
         if: |
