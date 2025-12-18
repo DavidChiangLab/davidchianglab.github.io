@@ -9,7 +9,6 @@ Based in Brigham and Women's Hospital and Harvard Medical School.
 
 {% include section.html %}
 
-## Highlights
 
 {% capture text %}
 
