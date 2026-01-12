@@ -14,7 +14,7 @@ Genetic research for cardiac loss of function
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn More"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -24,7 +24,7 @@ Genetic research for cardiac loss of function
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/phosphorylation.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -32,7 +32,7 @@ Genetic research for cardiac loss of function
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out our current zebrafish research!
 
 {%
   include button.html
@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/zebrafish.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -56,8 +56,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -72,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/longwood.jpg"
   link="team"
   title="Our Team"
   text=text
