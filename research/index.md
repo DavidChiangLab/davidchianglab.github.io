@@ -5,9 +5,8 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# Research
 
-Site under construction
 
 {% include section.html %}
 
@@ -23,4 +22,4 @@ Site under construction
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" %}

@@ -4,8 +4,8 @@ subtitle:
 description: Based in Brigham and Women's Hospital and Harvard Medical School.
 header: images/background.jpg
 footer: images/background.jpg
-header-dark: false
-footer-dark: false
+header-dark: true
+footer-dark: true
 proofer: false
 
 # site social media and other links
