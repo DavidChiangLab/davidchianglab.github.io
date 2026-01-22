@@ -15,12 +15,7 @@ Our lab is located at Brigham and Women's Hospital, in the 221 Longwood building
   text="Email"
   link="dychiang@bwh.harvard.edu"
 %}
-{%
-  include button.html
-  type="phone"
-  text="Phone"
-  link="+1-"
-%}
+
 {%
   include button.html
   type="address"
