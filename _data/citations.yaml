@@ -1392,3 +1392,158 @@
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8298292/
   plugin: sources.py
   file: sources.yaml
+- id: PMID:35210625
+  title: Genome-wide association analyses identify new Brugada syndrome risk loci
+    and highlight a new mechanism of sodium channel regulation in disease susceptibility.
+  authors:
+  - Julien Barc
+  - Rafik Tadros
+  - Charlotte Glinge
+  - David Y Chiang
+  - Mariam Jouni
+  - Floriane Simonet
+  - Sean J Jurgens
+  - Manon Baudic
+  - Michele Nicastro
+  - Franck Potet
+  - Joost A Offerhaus
+  - Roddy Walsh
+  - Seung Hoan Choi
+  - Arie O Verkerk
+  - Yuka Mizusawa
+  - Soraya Anys
+  - Damien Minois
+  - Marine Arnaud
+  - Josselin Duchateau
+  - Yanushi D Wijeyeratne
+  - Alison Muir
+  - Michael Papadakis
+  - Silvia Castelletti
+  - Margherita Torchio
+  - "Cristina Gil Ortu\xF1o"
+  - Javier Lacunza
+  - Daniela F Giachino
+  - Natascia Cerrato
+  - "Rapha\xEBl P Martins"
+  - Oscar Campuzano
+  - Sonia Van Dooren
+  - "Aur\xE9lie Thollet"
+  - Florence Kyndt
+  - Andrea Mazzanti
+  - "Nicolas Cl\xE9menty"
+  - Arnaud Bisson
+  - Anniek Corveleyn
+  - Birgit Stallmeyer
+  - Sven Dittmann
+  - Johan Saenen
+  - "Antoine No\xEBl"
+  - Shohreh Honarbakhsh
+  - Boris Rudic
+  - Halim Marzak
+  - Matthew K Rowe
+  - Claire Federspiel
+  - Sophie Le Page
+  - Leslie Placide
+  - Antoine Milhem
+  - Hector Barajas-Martinez
+  - Britt-Maria Beckmann
+  - Ingrid P Krapels
+  - Johannes Steinfurt
+  - Bo Gregers Winkel
+  - Reza Jabbari
+  - Moore B Shoemaker
+  - Bas J Boukens
+  - "Doris \u0160kori\u0107-Milosavljevi\u0107"
+  - Hennie Bikker
+  - Federico Manevy
+  - Peter Lichtner
+  - "Marta Ribas\xE9s"
+  - Thomas Meitinger
+  - "Martina M\xFCller-Nurasyid"
+  - Jan H Veldink
+  - Leonard H van den Berg
+  - Philip Van Damme
+  - Daniele Cusi
+  - Chiara Lanzani
+  - Sidwell Rigade
+  - Eric Charpentier
+  - Estelle Baron
+  - "St\xE9phanie Bonnaud"
+  - Simon Lecointe
+  - Audrey Donnart
+  - "Herv\xE9 Le Marec"
+  - "St\xE9phanie Chatel"
+  - Matilde Karakachoff
+  - "St\xE9phane B\xE9zieau"
+  - Barry London
+  - Jacob Tfelt-Hansen
+  - Dan Roden
+  - Katja E Odening
+  - Marina Cerrone
+  - Larry A Chinitz
+  - Paul G Volders
+  - Maarten P van de Berg
+  - Gabriel Laurent
+  - Laurence Faivre
+  - Charles Antzelevitch
+  - "Stefan K\xE4\xE4b"
+  - Alain Al Arnaout
+  - Jean-Marc Dupuis
+  - Jean-Luc Pasquie
+  - Olivier Billon
+  - Jason D Roberts
+  - Laurence Jesel
+  - Martin Borggrefe
+  - Pier D Lambiase
+  - Jacques Mansourati
+  - Bart Loeys
+  - Antoine Leenhardt
+  - Pascale Guicheney
+  - Philippe Maury
+  - Eric Schulze-Bahr
+  - Tomas Robyns
+  - Jeroen Breckpot
+  - Dominique Babuty
+  - Silvia G Priori
+  - Carlo Napolitano
+  - Carlo de Asmundis
+  - Pedro Brugada
+  - Ramon Brugada
+  - Elena Arbelo
+  - Josep Brugada
+  - Philippe Mabo
+  - Nathalie Behar
+  - Carla Giustetto
+  - Maria Sabater Molina
+  - Juan R Gimeno
+  - Can Hasdemir
+  - Peter J Schwartz
+  - Lia Crotti
+  - Pascal P McKeown
+  - Sanjay Sharma
+  - Elijah R Behr
+  - Michel Haissaguerre
+  - "Fr\xE9d\xE9ric Sacher"
+  - Caroline Rooryck
+  - Hanno L Tan
+  - Carol A Remme
+  - Pieter G Postema
+  - Mario Delmar
+  - Patrick T Ellinor
+  - Steven A Lubitz
+  - Jean-Baptiste Gourraud
+  - Michael W Tanck
+  - Alfred L George
+  - Calum A MacRae
+  - Paul W Burridge
+  - Christian Dina
+  - Vincent Probst
+  - Arthur A Wilde
+  - Jean-Jacques Schott
+  - Richard Redon
+  - Connie R Bezzina
+  publisher: Nature genetics
+  date: '2022-02-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35210625
+  plugin: sources.py
+  file: sources.yaml
