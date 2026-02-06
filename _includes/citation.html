@@ -14,6 +14,10 @@
       <a
         {% if citation.link %}
           href="{{ citation.link | relative_url | uri_escape }}"
+          {% if citation.link contains "http" %}
+            target="_blank"
+            rel="noopener noreferrer"
+          {% endif %}
         {% endif %}
         class="citation-image"
         aria-label="{{ citation.title | default: "citation link" | regex_strip }}"
@@ -34,6 +38,10 @@
       <a
         {% if citation.link %}
           href="{{ citation.link | relative_url | xml_escape }}"
+          {% if citation.link contains "http" %}
+            target="_blank"
+            rel="noopener noreferrer"
+          {% endif %}
         {% endif %}
         class="citation-title"
       >

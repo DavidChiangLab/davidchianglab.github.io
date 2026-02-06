@@ -33,6 +33,7 @@
   --code: "Roboto Mono", monospace;
 
   // font sizes
+  --medium: 1.25rem;  // 20px
   --large: 3.0rem;
   --xl: 3.5rem;
   --xxl: 4.0rem;
@@ -51,4 +52,9 @@
   --rounded: 3px;
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
+}
+
+body {
+  font-size: var(--medium);
+  font-family: var(--body);
 }
