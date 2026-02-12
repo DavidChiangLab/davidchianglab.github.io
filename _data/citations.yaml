@@ -29,6 +29,7 @@
   orcid: 0000-0002-5883-6383
   plugin: sources.py
   file: sources.yaml
+  image: https://www.ahajournals.org/cms/10.1161/CIRCRESAHA.123.323231/asset/92113e94-03e0-41ee-a71f-6cc09cd7e7ca/assets/graphic/circresaha.123.323231.fig09.jpg
 - id: doi:10.1007/s00018-023-04933-2
   title: Modeling of large-scale hoxbb cluster deletions in zebrafish uncovers a role
     for segmentation pathways in atrioventricular boundary specification
@@ -73,6 +74,7 @@
   orcid: 0000-0002-5883-6383
   plugin: sources.py
   file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44161-023-00294-y/MediaObjects/44161_2023_294_Fig1_HTML.png?as=webp
 - id: doi:10.1016/j.jacep.2022.08.022
   title: Atrial Standstill in the Pediatric Population
   authors:
@@ -101,6 +103,7 @@
   orcid: 0000-0002-5883-6383
   plugin: sources.py
   file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405500X22007332-fx1.jpg
 - id: doi:10.1038/s41588-022-01079-y
   title: 'Author Correction: Genome-wide association analyses identify new Brugada
     syndrome risk loci and highlight a new mechanism of sodium channel regulation
@@ -470,6 +473,7 @@
   orcid: 0000-0002-5883-6383
   plugin: sources.py
   file: sources.yaml
+  image: https://www.ahajournals.org/cms/10.1161/CIRCRESAHA.120.318643/asset/5c339344-9f9e-4e75-abc2-503dbfd781a4/assets/graphic/circresaha.120.318643.fig08.jpg
 - id: doi:10.3390/proteomes9020027
   title: Phosphorylation-Dependent Interactome of Ryanodine Receptor Type 2 in the
     Heart
@@ -875,6 +879,7 @@
   orcid: 0000-0002-5883-6383
   plugin: sources.py
   file: sources.yaml
+  image: https://www.ahajournals.org/cms/10.1161/CIRCEP.115.003098/asset/938396a2-2126-4e94-9c46-a25c699e5451/assets/graphic/1105fig01.jpeg
 - id: doi:10.1161/CIRCULATIONAHA.113.006641
   title: Cellular and Molecular Mechanisms of Atrial Arrhythmogenesis in Patients
     With Paroxysmal Atrial Fibrillation
@@ -1545,5 +1550,6 @@
   publisher: Nature genetics
   date: '2022-02-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35210625
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/33af/9376964/83875dad415e/nihms-1817393-f0007.jpg
   plugin: sources.py
   file: sources.yaml
