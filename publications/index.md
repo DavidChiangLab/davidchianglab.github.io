@@ -14,11 +14,12 @@ nav:
 
 {% include citation.html lookup="doi:10.1016/j.jacep.2022.08.022" style="rich" %}
 
+{% include citation.html lookup="PMID:35210625" style="rich" %}
+
 {% include citation.html lookup="doi:10.1161/CIRCRESAHA.120.318643" style="rich" %}
 
 {% include citation.html lookup="doi:10.1161/CIRCEP.115.003098" style="rich" %}
 
-{% include citation.html lookup="PMID:35210625" style="rich" %}
 
 {% include section.html background="images/zebrafish.jpg" size=full %}
 

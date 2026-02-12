@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is located at 221 Longwood, Boston, MA across the street from Harvard Medical School in the Longwood Medical Area. We are within the [Division of Genetics](https://bwhgenetics.org/){:target="_blank"} and are members of the Harvard Medical School Department of Medicine.
+Our lab is located at 221 Longwood, Boston, MA across the street from Harvard Medical School in the Longwood Medical Area. We are within the [Division of Genetics](https://bwhgenetics.org/){:target="_blank"} at Brigham and Women's Hospital and are members of the Harvard Medical School Department of Medicine.
 
 {%
   include button.html
