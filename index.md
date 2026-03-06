@@ -3,7 +3,7 @@
 
 ## From gene discovery to drug discovery for cardiac arrhythmias
 
-The Chiang Lab investigates the genetic and molecular mechanisms that govern the heart's electrical system, with a focus on how _SCN5A_ loss-of-function and related pathways lead to life-threatening arrhythmias. We integrate CRISPR-based functional genomics, zebrafish models, hiPSC-derived cardiomyocytes, and AI-enabled phenotyping to uncover disease mechanisms and identify therapeutic targets. By bridging fundamental discovery with translational science, we aim to develop novel gene-based and pharmacologic therapies that restore cardiac conduction and prevent sudden cardiac death. Our mission is to transform care for patients and families suffering from life-threatening arrhythmias in both rare genetic and common heart diseases.
+The Chiang Lab at Brigham and Women's Hospital, Harvard Medical School, investigates the genetic and molecular mechanisms that govern the heart's electrical system, with a focus on how _SCN5A_ loss-of-function and related pathways lead to life-threatening arrhythmias. We integrate CRISPR-based functional genomics, zebrafish models, hiPSC-derived cardiomyocytes, and AI-enabled phenotyping to uncover disease mechanisms and identify therapeutic targets. By bridging fundamental discovery with translational science, we aim to develop novel gene-based and pharmacologic therapies that restore cardiac conduction and prevent sudden cardiac death. Our mission is to transform care for patients and families suffering from life-threatening arrhythmias in both rare genetic and common heart diseases.
 
 {% include section.html %}
 

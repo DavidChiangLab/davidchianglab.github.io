@@ -19,7 +19,7 @@
   file: orcid.yaml
 
 - id: doi:10.1038/s44161-023-00294-y
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44161-023-00294-y/MediaObjects/44161_2023_294_Fig1_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44161-023-00294-y/MediaObjects/44161_2023_294_Fig1_HTML.png
 
 - id: doi:10.1016/j.jacep.2022.08.022
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2405500X22007332-fx1.jpg
