@@ -5,7 +5,7 @@
   <div class="button-wrapper">
     <a
       class="button"
-      href="{{ button.link | replace: "$LINK", button.link | relative_url }}"
+      href="{% if button.link contains 'http' %}{{ button.link }}{% else %}{{ button.link | relative_url }}{% endif %}"
       {% if button.link contains "http" %}
         target="_blank"
         rel="noopener noreferrer"
