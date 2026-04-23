@@ -1,6 +1,6 @@
 {{ " " }}
 <div class="card" data-style="{{ include.style }}">
-  <a>
+  <a
     {% if include.link %}
       href="{% if include.link contains 'http' %}{{ include.link }}{% else %}{{ include.link | relative_url | uri_escape }}{% endif %}"
       {% if include.link contains "http" %}
@@ -21,7 +21,7 @@
 
   <div class="card-text">
     {% if include.title %}
-      <a>
+      <a
         {% if include.link %}
           href="{% if include.link contains 'http' %}{{ include.link }}{% else %}{{ include.link | relative_url | uri_escape }}{% endif %}"
           {% if include.link contains "http" %}
